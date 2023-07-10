@@ -11,7 +11,7 @@ This is a Django web application for a fictional event management system. The ap
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone git@github.com:Bhavya1912/event_management_system.git
 ```
 2. Navigate to the project directory:
 ```
